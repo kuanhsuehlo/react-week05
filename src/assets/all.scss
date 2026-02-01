@@ -1,0 +1,12 @@
+$primary: #e63946;
+
+body {
+    background-color: #FDF4F3;
+}
+
+@import 'bootstrap/scss/functions';
+
+@import './variables';
+
+
+@import 'bootstrap/scss/bootstrap';
